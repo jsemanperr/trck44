@@ -1,0 +1,16 @@
+{
+  "name": "tracking-backend",
+  "version": "1.0.0",
+  "description": "Backend para rastreo de dispositivos con envío a Telegram",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "axios": "^1.8.2",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "form-data": "^4.0.4"
+  }
+}
