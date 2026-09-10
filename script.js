@@ -1,7 +1,7 @@
 // ============================================================
 // CONFIGURACIÓN (CAMBIA ESTO)
 // ============================================================
-const BACKEND_URL = "https://TU_PROYECTO.railway.app/api/collect"; // <--- CAMBIA ESTO
+const BACKEND_URL = "https://trck44-production.up.railway.app"; // <--- CAMBIA ESTO
 
 // ============================================================
 // RECOLECCIÓN DE DATOS
